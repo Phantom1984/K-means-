@@ -1,0 +1,17 @@
+文件结构：
+聚类结果散点图：保存了各省份K-means聚类结果的三点图
+省份：各省份的访问者编号列表，以及其他数据
+data_footsteps.xlsx：访问者编号和足迹
+data_processed.xlsx：处理后的数据
+dataset.xlsx：原始数据
+map01.html：各省份访问人数地图
+map02.html：聚类结果地图
+result.json：结果字典
+result_01.json：第一类结果
+result_02.json：第二类结果
+result_03.json：第三类结果
+S1~S8：按顺序依次执行脚本即可
+test：显示原始数据的散点图，用于查看数据的分布情况
+各省访客人数.xlsx：如题
+聚类结果散点图.py：如题
+思路.txt：实现本项目时的心路历程
